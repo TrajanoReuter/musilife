@@ -1,0 +1,132 @@
+@media only screen and (max-width: 320px){
+    section#turn-music{
+        min-height: 900px;
+    }
+}
+
+@media only screen and (max-width: 539px){
+    section#learn{
+        height: 440px;
+    }
+    section#teach{
+        height: 480px;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    .aprenda h3{
+        margin-top: -125px !important;
+    }
+}
+@media only screen and (max-width: 988px){
+    img.logo-footer{
+        margin-bottom: 20px;
+    }
+    footer a.facebook-bg{
+        margin: 0 0 15px 0;
+        padding: 0;
+    }
+    #menu-mobile ul>li{
+        text-align: center;
+        padding: 15px 20px 15px 20px;
+        color: #99979b;
+    }
+    #menu-mobile ul>li>a{
+        color: #99979b;
+    }
+    #menu-mobile ul>li.li-item-img{
+        padding: 0 20px 0 20px;
+    }
+    .box-lesson{
+        margin-left: calc(50% - 150px);
+        margin-bottom: 30px;
+    }
+    .box-lesson2{
+        margin-left: calc(50% - 113px);
+        margin-bottom: 30px;
+    }
+
+    .filter-box{
+        margin-bottom: 30px;
+    }
+    section#aprenda{
+        height: 150px;
+    }
+    .aprenda h3{
+        margin-top: -75px;
+    }
+    section#news button{
+        margin-top: 30px;
+    }
+    section#news p{
+        text-align: center;
+    }
+    button.register{
+        width: 80%;
+    }
+    button.fb-register{
+        width: 80%;
+    }
+    h2.turn-text{
+        margin-top: 150px;
+    }
+    p.dream{
+        text-align: center;
+    }
+    p.learn-dream{
+        text-align: center;
+    }
+    p.learn-dream-text{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .steps p.description{
+        text-align: center;
+    }
+    section#news input{
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    img.logo-mobile{
+        margin-top: 7px;
+        margin-left: calc(50% - 70px);
+    }
+    footer a.facebook-bg{
+        margin-top: 15px;
+    }
+    footer ul>li.li-item{
+        text-align: center;
+    }
+    footer ul>li.li-item:nth-child(2){
+        margin-left: 15px;
+    }
+}
+
+@media only screen and (max-width: 1186px){
+    img.lesson-img{
+        width: 300px !important;
+    }
+    .box-lesson{
+        width: 300px !important;
+    }
+
+    .box-lesson-img{
+        width: 300px !important;
+    }
+
+    p.instructor{
+        margin-left: 0;
+    }
+
+    .box-lesson2{
+        width: 225px;
+    }
+    .box-lesson-img2{
+        width: 225px;
+    }
+
+    img.lesson-img2{
+        width: 225px;
+    }
+
+}
